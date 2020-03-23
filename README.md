@@ -1,3 +1,3 @@
-# CIFAR10 Image Classification with Pretrained ResNet18
+# CIFAR-10 Image Classification with Pretrained ResNet18
 
 The CIFAR-10 dataset provided by University of Toronto, consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. Each image has 3 channels representing the RGB channels. Four different neural networks -- namely, simple Softmax, 2-layer NN, 1 Convolution, and 4 Convolutions are implemented in this project using PyTorch. The aforementioned models are attached to the ResNet18 model by removing the last fully-connected layer. Extensive hyperparameter tuning has been performed and accuracy of 76%, 84%, 84%, and 87% correspondingly was achieved. The shell scripts contain the best hyperparameter values that produced these results. 
