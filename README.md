@@ -27,3 +27,7 @@ Instructions for running a model:
 5. A log file and saved model with .pt extension are created automatically for the current execution
 
 The dataset itself is downloaded by the cifar10.py file. The pretrained model is downloaded automatically by the model files during initialization.
+
+Project Collaborators:
+1. Ankit Sinha
+2. Tanmay Sharma (https://github.com/TANMAYSHARMA/)
